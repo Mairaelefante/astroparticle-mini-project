@@ -1,18 +1,45 @@
+# Cosmic Expansion Analysis
 
-# Astroparticle Mini Project
+A small but structured project exploring the expansion of the universe through Hubble’s law, combining basic cosmology concepts with simple computational modeling.
 
-This is a simple project about cosmic expansion and Hubble's law.
+## Overview
 
-## Idea
-The universe is expanding, and galaxies move away from us.
+One of the most important discoveries in modern cosmology is that the universe is expanding. Galaxies are moving away from us with a velocity proportional to their distance.
 
-## Formula
-v = H0 × d
+This project explores this relation and highlights both its usefulness and its limitations.
+
+## The Model
+
+The starting point is Hubble’s law:
+
+v = H₀ · d
+
+where:
+- v is the recession velocity
+- H₀ is the Hubble constant
+- d is the distance
+
+## What this project does
+
+- Implements Hubble’s law in Python
+- Visualizes the velocity–distance relation
+- Provides a simple interpretation of cosmic expansion
+- Discusses the limits of the linear approximation
+
+## Key Insight
+
+While the relation appears simple, it is only valid at relatively small cosmological distances. At larger scales, a full relativistic treatment is required.
 
 ## Files
-- redshift_project.py
-- notes.md
+
+- `cosmic_expansion.py` → Python model and visualization
+- `notes.md` → theoretical notes and interpretation
+
+## Why this project
+
+This project is part of my effort to build a clear and structured understanding of astroparticle physics and cosmology, combining theory with simple computational tools.
 
 ## Author
+
 Maira Elefante  
-Physics student (Astroparticle Physics)
+Physics student (MSc Astroparticle Physics) 
