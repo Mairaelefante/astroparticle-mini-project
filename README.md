@@ -1,4 +1,4 @@
-# astroparticle-mini-project
+
 # Astroparticle Mini Project
 
 This is a simple project about cosmic expansion and Hubble's law.
