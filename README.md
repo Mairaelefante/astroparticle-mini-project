@@ -38,9 +38,20 @@ where:
 
 While the relation appears simple, it is only valid at relatively small cosmological distances. At larger scales, a full relativistic treatment is required.
 
+## Run the model
+
+Install the numerical and plotting packages, then run the actual entry point:
+
+```bash
+python3 -m pip install numpy matplotlib
+python3 redshift_project.py
+```
+
+The script plots Hubble's law for an illustrative value of H₀ = 70 km/s/Mpc.
+
 ## Files
 
-- `cosmic_expansion.py` → Python model and visualization
+- [`redshift_project.py`](redshift_project.py) → Python model and visualization
 - `notes.md` → theoretical notes and interpretation
 
 ## Why this project
