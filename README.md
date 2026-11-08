@@ -1,3 +1,11 @@
+![Cosmic Expansion Analysis](cover.svg)
+
+> **Hubble's law · Scientific Python · Visualization**
+
+**Focus:** Computational Cosmology · [Source and project files](./)
+
+---
+
 # Cosmic Expansion Analysis
 
 A small but structured project exploring the expansion of the universe through Hubble’s law, combining basic cosmology concepts with simple computational modeling.
